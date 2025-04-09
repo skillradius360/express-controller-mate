@@ -13,5 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "https://github.com/skillradius360/express-controller-mate.git"
+  "description": "https://github.com/skillradius360/express-controller-mate.git",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/skillradius360/express-controller-mate.git"
+  }
 }
